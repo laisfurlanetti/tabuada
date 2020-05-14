@@ -1,0 +1,7 @@
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\Tabuada\bin\Debug\Tabuada.exe.config
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\Tabuada\obj\Debug\Tabuada.csprojAssemblyReference.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\Tabuada\obj\Debug\Tabuada.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\Tabuada\obj\Debug\Tabuada.pdb
